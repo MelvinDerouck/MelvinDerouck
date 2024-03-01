@@ -11,8 +11,7 @@ I use Power BI to design interactive and impactful dashboards.
 * ✉️  You can contact me at [derouck.mel@gmail.com](mailto:derouck.mel@gmail.com)
 * 🧠  I'm skilled in Python, SQL, Power BI
 * 🤝  I'm open to collaborating on Data and ML projects
-* 🍕  I love pizza
-
+  
 ### Skills
 
 <p align="left">
