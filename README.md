@@ -1,6 +1,6 @@
-Hi ! My name is Melvin
+Hi ! My name is Melvin,
 ===============================
-I'm a Data Analyst 
+I'm a Data Analyst.
 ----------------
 
 I make data speak with Python & SQL. </br> 
