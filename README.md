@@ -1,17 +1,17 @@
-Hi 👋 My name is Melvin
+Hi ! My name is Melvin
 ===============================
-I'm a Data Analyst
+I'm a Data Analyst 
 ----------------
 
-Currently in apprenticeship, I learn to make data speak with Python & SQL. </br> 
-I have strong skills in Statistics, Data Visualization and Programming.
+I make data speak with Python & SQL. </br> 
+I use Power BI to design interactive and impactful dashboards.
 
 * 🌍  I'm based in Grenoble, France
 * 🖥️  See my portfolio at [melvinderouck.github.io/](http://melvinderouck.github.io/)
 * ✉️  You can contact me at [derouck.mel@gmail.com](mailto:derouck.mel@gmail.com)
-* 🧠  I'm learning Python and ML
+* 🧠  I'm skilled in Python, SQL, Power BI
 * 🤝  I'm open to collaborating on Data and ML projects
-* ⚡  I love pizza
+* 🍕  I love pizza
 
 ### Skills
 
